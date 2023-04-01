@@ -8,4 +8,4 @@ valorpago = Convert.ToDecimal(Console.ReadLine());
 
 troco = (valorpago - valorproduto);
 
-Console.WriteLine($"O valor do troco é {troco}");
+Console.WriteLine($"O valor do troco é R${troco}");
